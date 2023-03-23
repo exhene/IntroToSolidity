@@ -1,4 +1,4 @@
-# IntroToSolidity
+# TestingSolidity
 
 Solidity is a high-level programming language used for writing smart contracts on the Ethereum blockchain. It was developed specifically for Ethereum and is designed to be easy to learn and use for developers. Solidity is a statically typed language, which means that variables have to be declared with their type at compile-time.
 
